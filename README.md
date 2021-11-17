@@ -40,20 +40,19 @@
   />
 </p>
 
-<pre>
 
-    - 🔭 I’m currently working on [Convpho](https://www.convpho.com/)
+- 🔭 I’m currently working on [Convpho](https://www.convpho.com/)
     
-    - 🌱 I’m currently learning **Web Assembly**
+- 🌱 I’m currently learning **Web Assembly**
     
-    - 👨‍💻 Few of my projects are available at [Github](Github)
+- 👨‍💻 Few of my projects are available at [Github](Github)
     
-    - 💬 Ask me about **React, Nextjs, Nodejs, AWS or anything you wish!**
+- 💬 Ask me about **React, Nextjs, Nodejs, AWS or anything you wish!**
     
-    - 📫 How to reach me **ayaz.uiit3@gmail.com**
+- 📫 How to reach me **ayaz.uiit3@gmail.com**
     
-    - ⚡ Fun fact **I am way creative then you think!**
-</pre>
+- ⚡ Fun fact **I am way creative then you think!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
