@@ -1,11 +1,11 @@
 <h1 align="center">Greetings 👋, I'm Mo Ayaz</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
+
 <p align="left">
-  <a href="https://twitter.com/moayaz200" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/moayaz200?logo=twitter&style=for-the-badge"
-      alt="moayaz200"
-  /></a>
+  <img
+    src="https://komarev.com/ghpvc/?username=ayazai&label=Profile%20views&color=0e75b6&style=flat"
+    alt="ayazai"
+  />
 </p>
 
 <p align="left">
@@ -32,23 +32,31 @@
   />
 </p>
 
-- 🔭 I’m currently working on [Convpho](https://www.convpho.com/) 
-- 🌱 I’m currently learning **Web Assembly** 
-- 👨‍💻 Few of my projects are available at[Github](Github) 
-- 💬 Ask me about **React, Nextjs, Nodejs, AWS or anything you wish!** 
-- 📫 How to reach me **ayaz.uiit3@gmail.com** 
-- ⚡ Fun fact **I am way creative then you think!**
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ayazai&"
+    alt="ayazai"
+  />
+</p>
+
+<pre>
+
+    - 🔭 I’m currently working on [Convpho](https://www.convpho.com/)
+    
+    - 🌱 I’m currently learning **Web Assembly**
+    
+    - 👨‍💻 Few of my projects are available at [Github](Github)
+    
+    - 💬 Ask me about **React, Nextjs, Nodejs, AWS or anything you wish!**
+    
+    - 📫 How to reach me **ayaz.uiit3@gmail.com**
+    
+    - ⚡ Fun fact **I am way creative then you think!**
+</pre>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/moayaz200" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="moayaz200"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://linkedin.com/in/ayaztheentrepreneur" target="blank"
     ><img
       align="center"
