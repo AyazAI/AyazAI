@@ -79,6 +79,7 @@ BSCS, UIIT, PMAS Arid Agriculture University Rawalpindi, 2016–2020.
 | Project | What it is |
 | --- | --- |
 | [secure-aws-platform](https://github.com/AyazAI/secure-aws-platform) | Secure AWS reference stack in Terraform: VPC, ECS Fargate behind ALB, least-privilege IAM, KMS, CloudWatch alarms, budgets; CI with tflint, Checkov, tfsec, gitleaks |
+| [bedrock-booking-agent](https://github.com/AyazAI/bedrock-booking-agent) | AI booking assistant on FastAPI with tool calls (availability, book, cancel), RAG over notes with Chroma, and one LLM interface for Amazon Bedrock and OpenAI |
 | [nextjs-saas-demo](https://github.com/AyazAI/nextjs-saas-demo) | Harborlane: multi-tenant Next.js SaaS (App Router, TypeScript, Postgres/Prisma, NextAuth, Stripe test mode, Vitest + Playwright) |
 | [streamlit-web-agents](https://github.com/AyazAI/streamlit-web-agents) | FastAPI and Streamlit service for multi-agent brand analysis on Amazon Bedrock |
 | [S3-Examples](https://github.com/AyazAI/S3-Examples) | Python helpers and tests for uploading and listing images in Amazon S3 |
