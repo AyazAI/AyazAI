@@ -74,22 +74,15 @@ The short version: I run the servers, I write the pipelines, and I ship with age
 
 BSCS, UIIT, PMAS Arid Agriculture University Rawalpindi, 2016–2020.
 
-## 📌 Selected work
+## 📌 Featured projects
 
 | Project | What it is |
 | --- | --- |
+| [secure-aws-platform](https://github.com/AyazAI/secure-aws-platform) | Secure AWS reference stack in Terraform: VPC, ECS Fargate behind ALB, least-privilege IAM, KMS, CloudWatch alarms, budgets; CI with tflint, Checkov, tfsec, gitleaks |
+| [nextjs-saas-demo](https://github.com/AyazAI/nextjs-saas-demo) | Harborlane: multi-tenant Next.js SaaS (App Router, TypeScript, Postgres/Prisma, NextAuth, Stripe test mode, Vitest + Playwright) |
 | [streamlit-web-agents](https://github.com/AyazAI/streamlit-web-agents) | FastAPI and Streamlit service for multi-agent brand analysis on Amazon Bedrock |
 | [S3-Examples](https://github.com/AyazAI/S3-Examples) | Python helpers and tests for uploading and listing images in Amazon S3 |
-| [photography-portfolio](https://github.com/AyazAI/photography-portfolio) | TypeScript, React, and Supabase portfolio site, [live on Vercel](https://photography-portfolio-lime-nine.vercel.app) |
-| [color-categorization](https://github.com/AyazAI/color-categorization) | Flask and OpenCV service that extracts dominant colours from images, with GCP deploy, firewall, and ops-agent scripts |
 
 ## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/ayazai) · [code-kab.com](https://code-kab.com)
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=AyazAI&show_icons=true&theme=transparent&hide_border=true)
-![Top languages](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=AyazAI&layout=compact&theme=transparent&hide_border=true)
-
-</div>
